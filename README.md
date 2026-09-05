@@ -51,6 +51,10 @@ A SystemVerilog testbench and ADS8862 behavioral model are used for functional s
         +--------------------+
         |     Block RAM      |
         +--------------------+
+```
+
+---
+
 ## Simulation Results
 
 ### ModelSim Simulation
@@ -60,3 +64,5 @@ A SystemVerilog testbench and ADS8862 behavioral model are used for functional s
 ### Vivado Simulation
 
 ![Vivado simulation waveform](docs/vivado_waveform.png)
+
+---
